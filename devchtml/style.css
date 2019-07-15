@@ -1,0 +1,26 @@
+h1{
+    color : blueviolet;
+}
+
+body{
+
+    background-color: wheat;
+}
+
+.redMerah{
+    color: red;
+
+}
+
+.divBlue{
+    color: blue;
+
+}
+
+#akhir{
+    color: brown;
+}
+
+.bawah{
+    border: 1px solid red
+}
